@@ -2,7 +2,7 @@
 
 const SITE = {
   whatsappNumber: "94781482868",
-  phone: "+94 78 061 8188",
+  phone: "+94 74 061 8188",
 };
 
 document.addEventListener("DOMContentLoaded", () => {
