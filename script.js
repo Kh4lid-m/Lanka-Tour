@@ -1,7 +1,7 @@
 /* Lanka Hire — Static site script */
 
 const SITE = {
-  whatsappNumber: "94781482868",
+  whatsappNumber: "94740618188",
   phone: "+94 74 061 8188",
 };
 
