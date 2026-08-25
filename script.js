@@ -1,8 +1,8 @@
 /* Lanka Hire — Static site script */
 
 const SITE = {
-  whatsappNumber: "94701234567",
-  phone: "+94 70 123 4567",
+  whatsappNumber: "94781482868",
+  phone: "+94 78 148 2868",
 };
 
 document.addEventListener("DOMContentLoaded", () => {
